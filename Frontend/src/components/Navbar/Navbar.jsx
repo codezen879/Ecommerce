@@ -52,7 +52,8 @@ function Navbar() {
           <FavoriteBorderOutlinedIcon/>
           <div className="cartIcon">
             <div><ShoppingCartOutlinedIcon/></div>
-            <span>0</span>
+            <div><span>0</span></div>
+            
           </div>
         </div>
       </div>
